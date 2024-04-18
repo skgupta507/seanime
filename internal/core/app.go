@@ -260,7 +260,7 @@ func NewFiberApp(app *App) *fiber.App {
 
 	fiberApp.Get("*", func(c *fiber.Ctx) error {
 		path := c.OriginalURL()
-		if strings.HasPrefix(path, "/api") || strings.HasPrefix(path, "/events") {
+		if strings.HasPrefix(path, "/api") || strings.HasPrefix(path, "/events") || strings.HasPrefix(path, "/graphql") {
 			return c.Next()
 		}
 		if !strings.HasSuffix(path, ".html") {

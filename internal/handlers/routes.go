@@ -63,6 +63,9 @@ func InitRoutes(app *core.App, fiberApp *fiber.App) {
 		})
 	}
 
+	fiberApp.All("/graphql", HandleGraphqlServer)
+	fiberApp.All("/graphql-playground", HandleGraphqlServerPlayground)
+
 	v1.Get("/internal/docs", makeHandler(app, HandleGetDocs))
 
 	// Image Proxy
