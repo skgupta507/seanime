@@ -15,12 +15,12 @@ Scan, automate and enjoy your anime collection, read manga, track your progress 
 </p>
 
 <p align="center">
-<img src="docs/images/v1/showcase.png" alt="preview" width="100%"/>
+<img src="docs/images/v1/showcase_1.png" alt="preview" width="100%"/>
 </p>
 
 <p align="center">
 <img src="docs/images/v1/rec_play.gif" alt="preview" width="49%"/>
-<img src="docs/images/v1/seanime-manga1.gif" alt="preview" width="48.9%"/>
+<img src="docs/images/v1/seanime-manga1.gif" alt="preview" width="48.75%"/>
 </p>
 
 <p align="center">
@@ -124,21 +124,11 @@ How to install Seanime
 - Support for other languages
 - Mobile app
 
-## Resources
+## Development and Build
 
-- [Chalk UI](https://chalk.rahim.app) - UI library
-- [Fiber](https://gofiber.io/) - Go Web framework
-- [GORM](https://gorm.io/) - Go ORM
-- [gqlgenc](https://github.com/Yamashou/gqlgenc) - GraphQL codegen
-- [Next.js](https://nextjs.org/) - React framework
-- [Tailwind CSS](https://tailwindcss.com/) - CSS framework
-- [React Query](https://react-query.tanstack.com/) - Data fetching library
-- [Seanime Parser](https://github.com/5rahim/seanime/tree/main/seanime-parser) - Filename parser
-- [ani.zip](https://api.ani.zip/mappings?anilist_id=124080) - Mappings and episode data
-- [anime-lists](https://github.com/Fribb/anime-lists) - Mappings
-- [TheTVDB](https://www.thetvdb.com/) - Episode images
-- [AniList API](https://anilist.gitbook.io/anilist-apiv2-docs) - User data, anime and manga metadata
-- [MAL API](https://myanimelist.net/apiconfig/references/api/v2)
+To get started, you will need to be familiar with Go and Typescript.
+
+[Read more here](https://github.com/5rahim/seanime/blob/main/DEVELOPMENT_AND_BUILD.md)
 
 ## Acknowledgements
 
@@ -149,11 +139,11 @@ How to install Seanime
 # Screenshots
 
 <img src="docs/images/v1/rec_scan.gif" alt="preview" width="100%"/>
-<img src="docs/images/v1/my-library.png" alt="preview" width="100%"/>
-<img src="docs/images/v1/entry.png" alt="preview" width="100%"/>
+<img src="docs/images/v1/my-library_06.png" alt="preview" width="100%"/>
+<img src="docs/images/v1/entry_03.png" alt="preview" width="100%"/>
 <img src="docs/images/v1/rec_torrent-search.gif" alt="preview" width="100%"/>
 
-<img src="docs/images/v1/manga-entry_03.png" alt="preview" width="100%"/>
+<img src="docs/images/v1/manga-entry-2_02.png" alt="preview" width="100%"/>
 <img src="docs/images/v1/manga-reader.png" alt="preview" width="100%"/>
 
 <img src="docs/images/v1/discover_02.png" alt="preview" width="100%"/>
