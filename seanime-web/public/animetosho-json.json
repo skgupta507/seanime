@@ -1,10 +1,10 @@
 {
-  "id": "animetosho-custom",
-  "name": "AnimeTosho (Custom)",
+  "id": "animetosho-json",
+  "name": "AnimeTosho (JSON)",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
-  "version": "0.2.0",
+  "version": "0.1.0",
   "type": "anime-torrent-provider",
-  "manifestURI": "http://127.0.0.1:43210/custom-tosho.json",
+  "manifestURI": "http://127.0.0.1:43210/animetosho-json.json",
   "language": "typescript",
   "author": "Me",
   "meta": {

@@ -15,6 +15,18 @@ import (
 	"time"
 )
 
+// --start extension
+// @name Mangapill (Custom)
+// @description A test provider for manga from Mangapill
+// @author Seanime
+// @type manga-provider
+// @language go
+// @version 0.6.0
+// --start meta
+// @website https://seanime.rahim.app
+// --end meta
+// --end extension
+
 const MangapillProvider = "externalMangapill"
 
 type (

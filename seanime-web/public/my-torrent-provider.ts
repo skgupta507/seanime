@@ -5,10 +5,10 @@
 // @name My Torrent Provider
 // @description A test anime torrent provider using AnimeTosho
 // @author Seanime
-// @manifestUri https://127.0.0.1:43210/my-torrent-provider.ts
+// @manifestUri http://127.0.0.1:43210/my-torrent-provider.ts
 // @type anime-torrent-provider
 // @language typescript
-// @version 0.2.0
+// @version 0.5.0
 // @icon https://files.catbox.moe/xf9jl6.ico
 // @website https://seanime.rahim.app
 // --end extension

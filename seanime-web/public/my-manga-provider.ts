@@ -6,9 +6,9 @@
 // @description A test manga provider using ComicK
 // @author Seanime
 // @manifestUri http://127.0.0.1:43210/my-manga-provider.ts
-// @type anime-torrent-provider
+// @type manga-provider
 // @language typescript
-// @version 0.1.0
+// @version 0.2.0
 // @website https://seanime.rahim.app
 // --end extension
 
